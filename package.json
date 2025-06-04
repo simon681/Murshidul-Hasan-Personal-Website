@@ -10,8 +10,8 @@
     "test": "echo \"No tests defined\""
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Murshidul Hasan",
+  "license": "MIT",
   "type": "module",
   "dependencies": {
     "next": "13.4.19",

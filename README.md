@@ -16,3 +16,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 
 Legacy static files (`index.html`, `styles.css`) remain for reference.
+
+## Production Build
+
+To create an optimized production build and start the server:
+
+```bash
+npm run build
+npm start
+```
+
+The project requires Node.js 18 or newer.

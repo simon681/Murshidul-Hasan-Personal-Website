@@ -5,6 +5,8 @@ export default function Home() {
   return (
     <>
       <Head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Murshidul Hasan | Digital Marketing Portfolio</title>
         <meta
           name="description"
@@ -264,7 +266,7 @@ export default function Home() {
         </button>
       </main>
       <footer className="bg-dark text-white text-center py-3">
-        <p>&copy; 2025 Murshidul Hasan. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Murshidul Hasan. All rights reserved.</p>
       </footer>
     </>
   );

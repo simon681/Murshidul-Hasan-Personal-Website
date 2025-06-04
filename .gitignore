@@ -2,6 +2,7 @@ node_modules/
 .next/
 .DS_Store
 .env
+out/
 
 # Logs
 npm-debug.log*
